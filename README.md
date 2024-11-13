@@ -7,8 +7,8 @@
 
 
 ## 💻 Technologies
-- Python, Django, SQL, PowerBi
-- Data analysis and visualization: Pandas, Matplotlib, Seaborn
+- Python, Django, SQL
+- Data analysis and visualization: Pandas, Matplotlib, Seaborn, PowerBi
 
 <!---
 bertanerguc/bertanerguc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
