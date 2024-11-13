@@ -4,8 +4,7 @@
 
 ## 📌 Featured Projects
 - [Bank Churn Analysis][https://github.com/bertanerguc/Bank-Churn-Analysis]: A machine learning project to predict customer churn in a bank. This project involves data preprocessing, feature engineering, and using classification algorithms to predict whether a customer is likely to leave the bank.
-- [Project Name 2](link): A brief description of the project.
-- [Project Name 3](link): A brief description of the project.
+
 
 ## 💻 Technologies
 - Python, Django, SQL, PowerBi
