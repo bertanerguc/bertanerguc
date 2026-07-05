@@ -1,21 +1,20 @@
-# Bertan Ergüç — Co-Founder & CTO @ Altitude Holdings
+# Bertan Ergüç — Co-Founder & CTO
 
-Building the intelligence layer for real estate.
+Building the intelligence layer for real estate · Miami, FL
+Full-stack developer · MBA in Finance
 
-Full-stack developer · MBA in Finance · Miami, FL
+🏗 Currently Building
+AI-powered Property Intelligence Platform — South Florida
+Permit intelligence · True cost of ownership · AI ROI scenarios
 
-## 🏗 Currently Building
-**Altitude Holdings** — AI-powered Property Intelligence Platform
-Permit intelligence · True cost calculator · AI ROI scenarios · Vendor marketplace
-
-## 🛠 Stack
+🛠 Stack
 Python · Django · React · PostgreSQL · OpenAI API · AWS
 
-## 🚀 Projects
-- **altitude-holdings-demo** — Property intelligence platform prototype
-- **permit-intelligence-engine** — County-level permit data, ADU eligibility, rejection risk scoring
-- **ECUNOVAX** — Automotive dealer portal ($20K+ revenue, bootstrapped)
-- **Bank-Churn-Analysis** — ML project, customer churn prediction
+🚀 Projects
+- permit-intelligence-engine — County-level permit data & ADU eligibility
+- real-estate-data-analysis — Miami-Dade open data insights
+- ECUNOVAX — Automotive dealer portal ($20K+ revenue)
+- Bank-Churn-Analysis — ML · customer churn prediction
 
-## 📫
+📫 info@aiglity.com
 linkedin.com/in/bertan-erguc-b621b4195
