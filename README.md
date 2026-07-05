@@ -12,7 +12,7 @@ Permit intelligence · True cost calculator · AI ROI scenarios · Vendor market
 Python · Django · React · PostgreSQL · OpenAI API · AWS
 
 ## 🚀 Projects
-- **altitude-holdings-demo** — Property intelligence platform prototype (real Miami-Dade data)
+- **altitude-holdings-demo** — Property intelligence platform prototype
 - **permit-intelligence-engine** — County-level permit data, ADU eligibility, rejection risk scoring
 - **ECUNOVAX** — Automotive dealer portal ($20K+ revenue, bootstrapped)
 - **Bank-Churn-Analysis** — ML project, customer churn prediction
