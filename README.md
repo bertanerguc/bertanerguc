@@ -1,16 +1,21 @@
-# Hello! 👋 I'm Bertan
+# Bertan Ergüç — Co-Founder & CTO @ Altitude Holdings
 
-🚀 I develop Python projects and specialize in various data science techniques.
+Building the intelligence layer for real estate.
 
-## 📌 Featured Projects
-- [Bank Churn Analysis][https://github.com/bertanerguc/Bank-Churn-Analysis]: A machine learning project to predict customer churn in a bank. This project involves data preprocessing, feature engineering, and using classification algorithms to predict whether a customer is likely to leave the bank.
+Full-stack developer · MBA in Finance · Miami, FL
 
+## 🏗 Currently Building
+**Altitude Holdings** — AI-powered Property Intelligence Platform
+Permit intelligence · True cost calculator · AI ROI scenarios · Vendor marketplace
 
-## 💻 Technologies
-- Python, Django, SQL
-- Data analysis and visualization: Pandas, Matplotlib, Seaborn, PowerBi
+## 🛠 Stack
+Python · Django · React · PostgreSQL · OpenAI API · AWS
 
-<!---
-bertanerguc/bertanerguc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Projects
+- **altitude-holdings-demo** — Property intelligence platform prototype (real Miami-Dade data)
+- **permit-intelligence-engine** — County-level permit data, ADU eligibility, rejection risk scoring
+- **ECUNOVAX** — Automotive dealer portal ($20K+ revenue, bootstrapped)
+- **Bank-Churn-Analysis** — ML project, customer churn prediction
+
+## 📫
+linkedin.com/in/bertan-erguc-b621b4195
